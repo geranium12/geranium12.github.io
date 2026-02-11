@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://geranium12.github.io/sitemap-index.xml
